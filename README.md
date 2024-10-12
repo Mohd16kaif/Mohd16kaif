@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mohammad kaif</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
-<!-- </br>
-</br> -->
-<img align="left" src="https://komarev.com/ghpvc/?username=mohd16kaif&label=Profile%20views&color=000000&style=plastic" alt="mohd16kaif" /> </p>
-</br>
-<img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="image"></img>
+<h1 align="center">Hi 👋, I'm Mohammad Kaif</h1>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
+<div align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" height="200" alt="Coding GIF"/>
+</div>
 
-- 🌱 I’m currently learning **React js**
+---
 
-- 💬 Ask me about **MERN & C++**
-
-- 📫 How to reach me **kaif39882@gmail.com** or +91-9329817522
-</br>
-<p align="left">
-  </br>
-  </br>
-<p align="left" width="1000" padding:20; > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd16kaif" alt="mohd16kaif" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad kaif shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad kaif shaikh" height="30" width="40" /></a>
-<a href="https://instagram.com/that.kaiff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that.kaiff" height="30" width="40" /></a>
+## 🛠 Skills & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,cpp,postman,photoshop,java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-</br>
-<p><img align="left"  margin-bottom : 20px; src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd16kaif&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="mohd16kaif" /></p>
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd16kaif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd16kaif&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" width="400"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd16kaif&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="mohd16kaif" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd16kaif&theme=highcontrast" alt="mohd16kaif" /></p>
+## 🔥 Contribution Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd16kaif&theme=react-dark&bg_color=1a1b27&hide_border=true&radius=15" alt="GitHub Contribution Graph" />
+</div>
 
+---
+
+## 🎖️ Achievements  
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohd16kaif&theme=gruvbox&no-frame=true&margin-w=15&row=1&border_radius=15" alt="Trophies" />
+  </a>
+</div>
+
+---
+
+## 📬 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/mohammad kaif shaikh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&border_radius=15" />
+  </a>
+  <a href="https://instagram.com/that.kaiff" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&border_radius=15" />
+  </a>
+  <a href="mailto:kaif39882@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&border_radius=15" />
+  </a>
+  <a href="tel:+919329817522">
+    <img src="https://img.shields.io/badge/Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge&border_radius=15" />
+  </a>
+</p>
