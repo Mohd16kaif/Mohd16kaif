@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kaif</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohd Kaif Shaikh</h1>
+<h3 align="center">A Backend Developer from India</h3>
 
 <div align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" height="200" alt="Coding GIF"/>
@@ -9,7 +9,7 @@
 
 ## 🛠 Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,cpp,postman,photoshop,java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,eclipse,html,css,js" />
 </p>
 
 ---
@@ -29,21 +29,12 @@
 
 ---
 
-## 🎖️ Achievements  
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohd16kaif&theme=gruvbox&no-frame=true&margin-w=15&row=1&border_radius=15" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ## 📬 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/mohammad kaif shaikh" target="_blank">
+  <a href="https://www.linkedin.com/in/mohdkaifshaikh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&border_radius=15" />
   </a>
-  <a href="https://instagram.com/that.kaiff" target="_blank">
+  <a href="https://www.instagram.com/mxhdkaifff/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge&border_radius=15" />
   </a>
   <a href="mailto:kaif39882@gmail.com">
