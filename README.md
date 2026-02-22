@@ -1,45 +1,36 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohd%20Kaif%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Profile Views + Followers -->
 <div align="center">
-
-```
-██╗  ██╗ █████╗ ██╗███████╗
-██║ ██╔╝██╔══██╗██║██╔════╝
-█████╔╝ ███████║██║█████╗  
-██╔═██╗ ██╔══██║██║██╔══╝  
-██║  ██╗██║  ██║██║██║     
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝     
-```
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there!+I'm+Mohd+Kaif+Shaikh+👋;Backend+Developer+%7C+India+🇮🇳;Building+Scalable+Systems+⚙️" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohd16kaif&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mohd16kaif?label=Followers&style=flat-square&color=00d9ff" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Mohd16kaif&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Mohd16kaif?label=Followers&style=flat-square&color=0891b2&labelColor=1c1917" alt="Followers"/>
 </div>
 
 <br/>
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="340" alt="Coding GIF"/>
+---
+
+<!-- About Me -->
+<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320" alt="Coding GIF"/>
 
 ### 🧑‍💻 About Me
 
 ```java
 public class KaifShaikh {
 
-    String role     = "Backend Developer";
-    String location = "India 🇮🇳";
-    String passion  = "Building scalable systems";
+    String  name     = "Mohd Kaif Shaikh";
+    String  role     = "Backend Developer";
+    String  location = "India 🇮🇳";
 
-    String[] currently = {
-        "🔭 Working on Spring Boot microservices",
-        "🌱 Exploring Docker & Cloud tech",
-        "⚡ Crafting clean, efficient APIs"
+    String[] currentFocus = {
+        "🔭 Building Spring Boot microservices",
+        "🌱 Mastering Docker & Cloud tech",
+        "⚡ Designing clean, scalable APIs"
     };
 
-    String funFact = "I turn ☕ coffee into backend code!";
+    String funFact = "I turn ☕ into backend code!";
 }
 ```
 
@@ -51,17 +42,21 @@ public class KaifShaikh {
 
 <div align="center">
 
-**Backend & Core**
+**⚙️ Backend & Core**
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=3" height="52" />
 
-**DevOps & Tools**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman" height="50"/>
+**🐳 DevOps & Tools**
 
-**Frontend Basics**
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=4" height="52" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,eclipse" height="50"/>
+<br/>
+
+**🌐 Frontend Basics**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,eclipse&perline=4" height="52" />
 
 </div>
 
@@ -70,12 +65,16 @@ public class KaifShaikh {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd16kaif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd16kaif&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd16kaif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd16kaif&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&cache_seconds=1800" height="165" alt="Top Languages"/>
 </div>
 
+<br/>
+
+<!-- Streak Stats — hosted on demolab (very reliable) -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd16kaif&theme=tokyonight&hide_border=true&border_radius=12&stroke=00d9ff&ring=00d9ff&fire=ff6b6b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohd16kaif&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak Stats"/>
 </div>
 
 ---
@@ -83,15 +82,7 @@ public class KaifShaikh {
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd16kaif&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true&radius=8" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohd16kaif&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohd16kaif&theme=react-dark&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&radius=8" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -110,9 +101,8 @@ public class KaifShaikh {
 ---
 
 <div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
-
+  <i>"First, solve the problem. Then, write the code."</i>
 </div>
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
